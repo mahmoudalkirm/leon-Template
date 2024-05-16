@@ -279,7 +279,7 @@ z-index: -1;
 }
 /*portofolio*/
 .portofolio{
-    padding: 60px;
+    padding: 60px 0;
     background-color: #f6f6f6;
 }
 .portofolio .portofolio-content{
